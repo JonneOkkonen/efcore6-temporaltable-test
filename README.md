@@ -1,5 +1,7 @@
 # EFCore 6 Temporal Table Test Project
 
+Issue: https://github.com/dotnet/efcore/issues/26451
+
 ## Output
 After creating Main Entity
 ```json
